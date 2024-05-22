@@ -19,7 +19,7 @@ The system will use machine learning algorithms to:
 - Find all the products on the images of the trays.
 - Classify them into categories (for example, meat, vegetables, side dishes).
 - Select each product and count the number of pixels to determine its quantity.
-  - Comparing before and after images to calculate how much food is left.
+- Comparing before and after images to calculate how much food is left.
 
 What's the use?
 
